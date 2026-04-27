@@ -1,7 +1,7 @@
 # coding-1-finch-robot-project
 Students will program a robot using microbit and MS MakeCode
 
-Due date: N1: 12/17 :: L2: 12/18
+Due date:
 
 This midterm project challenges you to program a Finch robot to explore its environment autonomously using Python. Your robot must move on its own, detect obstacles with the distance sensor, respond by turning or stopping, and use LED colors to show its current state. You will provide your code and a short video to demonstrate your robot performance. You may work alone or in groups of up to three. When you are working with the finch robots, please leave the robots neatly packaged how you found them at the beginning of each class.
 
