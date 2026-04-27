@@ -5,11 +5,11 @@ Due date:
 
 This midterm project challenges you to program a Finch robot to explore its environment autonomously using Python. Your robot must move on its own, detect obstacles with the distance sensor, respond by turning or stopping, and use LED colors to show its current state. You will provide your code and a short video to demonstrate your robot performance. You may work alone or in groups of up to three. When you are working with the finch robots, please leave the robots neatly packaged how you found them at the beginning of each class.
 
-(Starter Template)[https://makecode.microbit.org/_PcfRkchM5UA7]
+[Starter Template](https://makecode.microbit.org/_PcfRkchM5UA7)
 
-(MakeCode Editor)[https://makecode.microbit.org/#editor]
+[MakeCode Editor](https://makecode.microbit.org/#editor])
 
-(Finch documentation)[https://learn.birdbraintechnologies.com/finch/python/program/]
+[Finch documentation](https://learn.birdbraintechnologies.com/finch/python/program/)
 
 Provide the Following Links Below:
 Team Members: (list names here)
