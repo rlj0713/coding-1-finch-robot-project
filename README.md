@@ -12,14 +12,10 @@ This midterm project challenges you to program a Finch robot to explore its envi
 [Finch documentation](https://learn.birdbraintechnologies.com/finch/python/program/)
 
 Provide the Following Links Below:
-
-Team Members: (list names here)
-
-Python Code (1 per group)
-
-Video demonstrating your robot’s performance (1 per group)
-
-Reflection (1 per team-member)
+ - Team Members: (list names here)
+ - Python Code (1 per group)
+ - Video demonstrating your robot’s performance (1 per group)
+ - Reflection (1 per team-member)
 
 Once all links are added here, submit this file via canvas.
 
